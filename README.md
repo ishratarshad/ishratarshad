@@ -16,20 +16,20 @@ Currently, I’m:
 
 ### 🛠️ Tech Stack
 
-**Programming & Machine Learning**  
+**Programming & Machine Learning:**  
 Python • C++ • JavaScript • Pandas • NumPy • scikit-learn • NLP • Matplotlib
 
-**Web & Full Stack**  
+**Web & Full Stack:**  
 React.js • Flask • Node.js • HTML5 • CSS3 • REST APIs • SQL
 
 **Tools & Platforms**  
 Jupyter • Git • VS Code • GitHub • Postman • Figma • Discord • Google Cloud
 
-**Specialized Skills**  
+**Specialized Skills:**  
 Machine Learning • NLP • AI Chatbot Development • Software Engineering • Frontend Dev • Healthcare Tech
 
 ---
-**🎯 Featured Projects**
+**🎯 Featured Projects:**
 
 **_🧠 NewsGuard – AI Misinformation Detection System:_**
 A full-stack application that detects fake news using NLP and explains key misinformation triggers with LIME.
