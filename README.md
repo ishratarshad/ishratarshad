@@ -88,7 +88,7 @@ A React-based web application that recommends recipes tailored to user dietary p
 **📱 Software Engineering Intern** _@ The Difference (June 2025 – Present)_
 - Delivered cross-platform mobile health features using Flutter and Laravel, optimizing onboarding and QA cycles for a user base of 700+.
 
-**🤖 AI Agent Builder Intern **_ @ NeuralSeek (July 2025 – Present)_
+**🤖 AI Agent Builder Intern** _ @ NeuralSeek (July 2025 – Present)_
 - Built low-latency AI agents using multi-agent orchestration, LLM integration, and explainability tools, completing certifications in AI architecture and HITL systems.
 
 **🧠 AI/ML Fellow** _@ Cornell Tech – Break Through Tech AI Studio (Feb 2025 – Present)_
