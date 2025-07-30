@@ -31,6 +31,18 @@ Machine Learning • NLP • AI Chatbot Development • Software Engineering •
 ---
 **🎯 Featured Projects:**
 
+_**📈 Airbnb Superhost Prediction – Logistic Regression**_  
+Built a logistic regression classifier to predict Airbnb superhosts using a cleaned dataset and one-hot encoded features.  
+**Tech Stack**: Python, scikit-learn, GridSearchCV, SelectKBest  
+**Impact**: Achieved high AUC and F1-score with full model evaluation pipeline and model persistence.  
+→ [View Project](https://github.com/ishratarshad/Logistic-Regression-Model)
+
+**_💼 Income Classification – Random Forest (Census Data)_**  
+Trained a random forest model to predict whether a person earns over $50K using demographic data.  
+**Tech Stack**: Python, scikit-learn, pandas, GridSearchCV  
+**Impact**: Tuned classifier with high recall and precision on imbalanced dataset using real-world census data.  
+→ [View Project](https://github.com/ishratarshad/ML-Portfolio)
+
 **_🧠 NewsGuard – AI Misinformation Detection System:_**
 A full-stack application that detects fake news using NLP and explains key misinformation triggers with LIME.
 
