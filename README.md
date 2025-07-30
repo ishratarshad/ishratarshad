@@ -29,37 +29,36 @@ Machine Learning • NLP • AI Chatbot Development • Software Engineering •
 
 ---
 **🎯 Featured Projects**
-🧠 NewsGuard – AI Misinformation Detection System
+
+**_🧠 NewsGuard – AI Misinformation Detection System_**
 A full-stack application that detects fake news using NLP and explains key misinformation triggers with LIME.
 
-Tech Stack: Python, scikit-learn, LIME, Flask, React.js, JavaScript, HTML/CSS
-Features:
+**Tech Stack:** 
+Python, scikit-learn, LIME, Flask, React.js, JavaScript, HTML/CSS
 
-NLP-based classification model with LIME explanation
+**Features:**
+- NLP-based classification model with LIME explanation
+- Highlighted misinformation with word-level weights
+- REST API for predictions
+- User-friendly React interface
+- Deployed via Git and CORS-safe API calls
+  
+**Impact**: Helps users understand why content is misleading and increases transparency in online media.
 
-Highlighted misinformation with word-level weights
 
-REST API for predictions
-
-User-friendly React interface
-
-Deployed via Git and CORS-safe API calls
-Impact: Helps users understand why content is misleading and increases transparency in online media.
-
-💊 SteadyCare – AI-Powered Health Assistant
+_**💊 SteadyCare – AI-Powered Health Assistant**_
 An accessible AI assistant that helps users manage medications, symptoms, and appointments through voice interaction and smart reminders.
 
-Tech Stack: Python, Flask, SpeechRecognition, Schedule, CSV file handling
-Features:
+**Tech Stack:** 
+Python, Flask, SpeechRecognition, Schedule, CSV file handling
 
-Voice-based medication logging and symptom tracking
-
-Personalized reminders using automated scheduling
-
-CSV-based storage for lightweight health history tracking
-
-Speech-to-text interface for hands-free usability
-Impact: Increased medication adherence by 40% and reduced daily management time by 35% for users with mobility limitations.
+**Features:**
+- Voice-based medication logging and symptom tracking
+- Personalized reminders using automated scheduling
+- CSV-based storage for lightweight health history tracking
+- Speech-to-text interface for hands-free usability
+- 
+**Impact**: Increased medication adherence by 40% and reduced daily management time by 35% for users with mobility limitations.
 
 
 
