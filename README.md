@@ -14,19 +14,20 @@ Currently, I’m:
 - 🧩 Leading collaborative tech projects, mentoring student developers, and overseeing GitHub workflows as **Project Tech Lead** for the Hunter CS Club
 
 
-### 🛠️ Tech Stack
+**🛠️ Tech Stack
+Programming & Machine Learning:**
+Python • C++ • JavaScript • C# • Swift • Pandas • NumPy • scikit-learn • Matplotlib • NLP
 
-**Programming & Machine Learning:**  
-Python • C++ • JavaScript • Pandas • NumPy • scikit-learn • NLP • Matplotlib
+**Web & Full Stack Development:**
+React.js • Flask • Node.js • HTML5 • CSS3 • PHP • Django • Ruby on Rails • ASP.NET • REST APIs • SQL
 
-**Web & Full Stack:**  
-React.js • Flask • Node.js • HTML5 • CSS3 • REST APIs • SQL
+**Tools & Platforms:**
+Jupyter • Git • GitHub • VS Code • Postman • Figma • Discord • Google Cloud
 
-**Tools & Platforms**  
-Jupyter • Git • VS Code • GitHub • Postman • Figma • Discord • Google Cloud
+**Specialized Skills:**
+Machine Learning • Natural Language Processing (NLP) • AI Chatbot Development • Software Engineering Frontend Development • Healthcare Tech • Full-Stack Web Applications • Explainable AI
 
-**Specialized Skills:**  
-Machine Learning • NLP • AI Chatbot Development • Software Engineering • Frontend Dev • Healthcare Tech
+
 
 ---
 **🎯 Featured Projects:**
