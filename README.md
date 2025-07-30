@@ -136,7 +136,11 @@ _- CSCI 335_
 - Managed inventory systems and reported medical usage trends using pharmacy software, sparking an interest in healthcare tech solutions.
 
 **🎓 B.S. in Computer Science & Economics** _@ CUNY Hunter College_
-**Minors**: Applied Mathematics, Economics • Dean’s List • **Expected Graduation**: May 2027
+
+**Minors**: Applied Mathematics, Economics 
+
+**Expected Graduation**: May 2027 • Dean’s List  
+
 **Relevant Coursework:** Computer Architecture, Data Structures and Algorithm, Advanced Algorithms, Software Analysis and Design, Discrete Structures, Linear Algebra, Differential Equations, Statistics and Data Analysis  
 
 ---
