@@ -114,6 +114,7 @@ A React-based web application that recommends recipes tailored to user dietary p
 ---
 
 **🎓 Education & Experience**
+
 **💻 Software Engineering Intern – Associate Project Manager** _@ Unadat (May 2025 – Present)_
 - Developed scalable financial tools and supported project planning, sprint reviews, and cross-team coordination in a cloud-based productivity platform.
 
