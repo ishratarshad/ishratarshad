@@ -36,6 +36,7 @@ Machine Learning • Natural Language Processing (NLP) • AI Chatbot Developmen
 
 **_📈 Airbnb Superhost Prediction – Logistic Regression_**
 Built a logistic regression classifier to predict Airbnb superhosts using a cleaned dataset and one-hot encoded features.
+
 **Tech Stack:** Python, scikit-learn, GridSearchCV, SelectKBest, pickle
 
 **Features:**
@@ -49,6 +50,7 @@ Built a logistic regression classifier to predict Airbnb superhosts using a clea
 
 _**💼 Income Classification – Random Forest (Census Data)**_
 Trained a random forest model to predict whether a person earns over $50K using demographic data from the U.S. Census.
+
 **Tech Stack:** Python, pandas, scikit-learn, GridSearchCV
 
 **Features:**
@@ -93,6 +95,7 @@ _**🥗 Recipease – Personalized Recipe Recommender**_
 A React-based web application that recommends recipes tailored to user dietary preferences, allergies, and ingredient availability. Developed collaboratively as a team project for Practical Web Development at Hunter College.
 
 **Tech Stack**: React.js, JavaScript, HTML/CSS, Spoonacular API, Figma  
+
 **Features**:  
 - Ingredient-based recipe search with filtering for vegetarian, vegan, halal, gluten-free, etc.  
 - Real-time suggestions using the Spoonacular API  
