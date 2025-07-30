@@ -1,6 +1,7 @@
 # Hi, I'm Ishrat! 👋  
-AI/ML Fellow @ Cornell Tech | Software Engineering Intern – Associate Project Manager @ Unadat | Software Engineering Intern @ The Difference | AI Agent Builder Intern @ NeuralSeek  
-📍 New York, NY | 🎓 CS + Economics @ Hunter College (CUNY) | Project Tech Lead – CS Club
+Software Engineering Intern – Associate Project Manager @ Unadat | Software Engineering Intern @ The Difference | AI Agent Builder Intern @ NeuralSeek  
+
+AI/ML Fellow @ Cornell Tech |🎓 CS + Economics @ Hunter College (CUNY)|📍New York, NY 
 
 I'm passionate about building intelligent systems that improve healthcare, education, and access to information. I bridge AI and full-stack development to create tools that make people’s lives easier — from detecting misinformation to managing medications.
 
