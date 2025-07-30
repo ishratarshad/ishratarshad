@@ -81,18 +81,34 @@ A React-based web application that recommends recipes tailored to user dietary p
 
 ---
 
-### 🎓 Education & Experience
+**🎓 Education & Experience**
+**💻 Software Engineering Intern – Associate Project Manager** _@ Unadat (May 2025 – Present)_
+- Developed scalable financial tools and supported project planning, sprint reviews, and cross-team coordination in a cloud-based productivity platform.
 
-- 💻 Software Engineering Intern @ Unadat (2025 – Present)  
-- 🤖 AI/ML Fellow @ Cornell Tech – Break Through Tech (2025)  
-- 🧠 Pharmacy Operations Analyst @ Block Drug Store (2020 – Present)  
-- 👩‍🏫 Tech Lead Director – CS Club @ Hunter College  
-- 🎓 B.S. Computer Science & Accounting | Minors in Applied Math, Economics  
-- 📃 AWS Certified Cloud Practitioner  
+**📱 Software Engineering Intern** _@ The Difference (June 2025 – Present)_
+- Delivered cross-platform mobile health features using Flutter and Laravel, optimizing onboarding and QA cycles for a user base of 700+.
+
+**🤖 AI Agent Builder Intern **_ @ NeuralSeek (July 2025 – Present)_
+- Built low-latency AI agents using multi-agent orchestration, LLM integration, and explainability tools, completing certifications in AI architecture and HITL systems.
+
+**🧠 AI/ML Fellow** _@ Cornell Tech – Break Through Tech AI Studio (Feb 2025 – Present)_
+- Created scalable, explainable ML systems for social impact; collaborated with mentors and engineers to align models with ethical AI principles.
+
+**👩‍🏫 Teaching Assistant – Data Structures & Software Analysis** @ Hunter College (June 2025 – Present)
+- Guided 40+ students through C++ topics like polymorphism, recursion, and memory management while supporting debugging and project development.
+_- CSCI 235_
+_- CSCI 335_
+
+**🧪 Pharmacy Operations** _@ Block Drug Store (2020 – Present)_
+- Managed inventory systems and reported medical usage trends using pharmacy software, sparking an interest in healthcare tech solutions.
+
+**🎓 B.S. in Computer Science & Economics** _@ CUNY Hunter College_
+**Minors**: Applied Mathematics, Economics • Dean’s List • **Expected Graduation**: May 2027
+**Relevant Coursework:** Computer Architecture, Data Structures and Algorithm, Advanced Algorithms, Software Analysis and Design, Discrete Structures, Linear Algebra, Differential Equations, Statistics and Data Analysis  
 
 ---
 
-### 📫 Let’s Connect  
+### 📫 Let’s Connect!  
 📧 Email: [ishratarshad101@gmail.com](mailto:ishratarshad101@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/ishratarshad](https://www.linkedin.com/in/ishratarshad)  
 🌐 Location: New York, NY  
