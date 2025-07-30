@@ -5,7 +5,7 @@ AI/ML Fellow @ Cornell Tech |🎓 CS + Economics @ Hunter College (CUNY)|📍New
 
 I'm passionate about building intelligent systems that improve healthcare, education, and access to information. I bridge AI and full-stack development to create tools that make people’s lives easier — from detecting misinformation to managing medications.
 
-Currently, I’m:
+_**Currently, I’m:**_
 - 🤖 Building AI agents @ NeuralSeek using multi-agent workflows, LLMs, and no-code architecture to support business compliance and support tools  
 - 💻 Developing production-ready financial tools @ Unadat using PHP, JavaScript, and Google Cloud as part of a social productivity platform — while also supporting sprint planning, QA coordination, and delivery workflows as an **Associate Project Manager**  
 - 📱 Designing mobile health features @ The Difference using Flutter, MySQL, and Laravel with real users and stakeholder feedback  
@@ -14,7 +14,8 @@ Currently, I’m:
 - 🧩 Leading collaborative tech projects, mentoring student developers, and overseeing GitHub workflows as **Project Tech Lead** for the Hunter CS Club
 
 
-**🛠️ Tech Stack**
+
+_**🛠️ Tech Stack**_
 
 **Programming & Machine Learning:**
 Python • C++ • JavaScript • C# • Swift • Pandas • NumPy • scikit-learn • Matplotlib • NLP
