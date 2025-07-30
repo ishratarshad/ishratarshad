@@ -30,7 +30,7 @@ Machine Learning • NLP • AI Chatbot Development • Software Engineering •
 ---
 **🎯 Featured Projects**
 
-**_🧠 NewsGuard – AI Misinformation Detection System_**
+**_🧠 NewsGuard – AI Misinformation Detection System:_**
 A full-stack application that detects fake news using NLP and explains key misinformation triggers with LIME.
 
 **Tech Stack:** 
@@ -46,7 +46,7 @@ Python, scikit-learn, LIME, Flask, React.js, JavaScript, HTML/CSS
 **Impact**: Helps users understand why content is misleading and increases transparency in online media.
 
 
-_**💊 SteadyCare – AI-Powered Health Assistant**_
+_**💊 SteadyCare – AI-Powered Health Assistant:**_
 An accessible AI assistant that helps users manage medications, symptoms, and appointments through voice interaction and smart reminders.
 
 **Tech Stack:** 
