@@ -58,8 +58,19 @@ Python, Flask, SpeechRecognition, Schedule, CSV file handling
 - Personalized reminders using automated scheduling
 - CSV-based storage for lightweight health history tracking
 - Speech-to-text interface for hands-free usability
-- 
+
 **Impact**: Increased medication adherence by 40% and reduced daily management time by 35% for users with mobility limitations.
+
+_**🥗 Recipease – Personalized Recipe Recommender**_
+A React-based web application that recommends recipes tailored to user dietary preferences, allergies, and ingredient availability. Developed collaboratively as a team project for Practical Web Development at Hunter College.
+
+**Tech Stack**: React.js, JavaScript, HTML/CSS, Spoonacular API, Figma  
+**Features**:  
+- Ingredient-based recipe search with filtering for vegetarian, vegan, halal, gluten-free, etc.  
+- Real-time suggestions using the Spoonacular API  
+- Clean, accessible UI built with mobile-first responsiveness  
+  
+**Impact**: Simplifies healthy meal planning for users with dietary restrictions and supports mindful cooking habits.
 
 
 
