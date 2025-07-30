@@ -1,4 +1,4 @@
-# Hi, I'm Ishrat! 👋  
+# Hi, I'm Ishrat!   
 SWE Intern – Associate Project Manager @ Unadat | SWE Intern @ The Difference | AI Agent Builder Intern @ NeuralSeek  
 
 AI/ML Fellow @ Cornell Tech | 🎓 CS + Economics @ Hunter College (CUNY) | 📍 New York, NY
