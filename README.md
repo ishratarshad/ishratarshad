@@ -8,7 +8,7 @@ I'm passionate about building intelligent systems that enhance healthcare, educa
 
 _**Currently, I’m:**_
 - 🤖 Building AI agents @ NeuralSeek using multi-agent workflows, LLMs, and no-code architecture to support business compliance and support tools  
-- 💻 Developing production-ready financial tools @ Unadat using PHP, JavaScript, and Google Cloud as part of a social productivity platform — while also supporting sprint planning, QA coordination, and delivery workflows as an **Associate Project Manager**  
+- 💻 Developing production-ready financial tools @ Unadat using PHP, JavaScript, and Google Cloud as part of a social productivity platform — while also supporting sprint planning, QA coordination, and delivery workflows as an Associate Project Manager 
 - 📱 Designing mobile health features @ The Difference using Flutter, MySQL, and Laravel with real users and stakeholder feedback  
 - 🧠 Researching fairness, explainability, and scalability in ML @ Cornell Tech’s Break Through Tech AI Studio  
 - 👩‍🏫 Supporting students as a TA for Data Structures & Software Analysis at Hunter College  
