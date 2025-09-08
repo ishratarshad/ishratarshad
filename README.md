@@ -35,34 +35,6 @@ Machine Learning • Natural Language Processing (NLP) • AI Chatbot Developmen
 ---
 **🎯 Featured Projects:**
 
-**_📈 Airbnb Superhost Prediction – Logistic Regression_**
-Built a logistic regression classifier to predict Airbnb superhosts using a cleaned dataset and one-hot encoded features.
-
-**Tech Stack:** Python, scikit-learn, GridSearchCV, SelectKBest, pickle
-
-**Features:**
-- One-hot encoded and scaled Airbnb listing dataset
-- Feature selection using SelectKBest
-- Logistic Regression model with hyperparameter tuning via GridSearchCV
-- Model evaluation using AUC, ROC Curve, confusion matrix, and precision-recall
-- Exported best model with pickle for deployment or reuse
-
-**Impact**: Achieved high AUC and F1-score with full model evaluation pipeline and model persistence.
-
-_**💼 Income Classification – Random Forest (Census Data)**_
-Trained a random forest model to predict whether a person earns over $50K using demographic data from the U.S. Census.
-
-**Tech Stack:** Python, pandas, scikit-learn, GridSearchCV
-
-**Features:**
-- Cleaned real-world census dataset for classification tasks
-- Trained a Random Forest classifier for binary income prediction
-- Hyperparameter tuning using GridSearchCV to improve accuracy
-- Evaluation using F1-score, precision, and recall
-- Notebook includes all preprocessing, training, and evaluation steps
-
-**Impact:** Tuned classifier with high recall and precision on imbalanced dataset using real-world census data.
-
 **_🧠 NewsGuard – AI Misinformation Detection System:_**
 A full-stack application that detects fake news using NLP and explains key misinformation triggers with LIME.
 
