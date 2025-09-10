@@ -111,8 +111,6 @@ _- CSCI 335_
 
 **Minors**: Applied Mathematics, Economics 
 
-**Expected Graduation**: May 2027 • Dean’s List  
-
 **Relevant Coursework:** Computer Architecture, Data Structures and Algorithm, Advanced Algorithms, Software Analysis and Design, Discrete Structures, Linear Algebra, Differential Equations, Statistics and Data Analysis  
 
 ---
