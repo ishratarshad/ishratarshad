@@ -119,4 +119,3 @@ _- CSCI 335_
 📧 Email: [ishratarshad101@gmail.com](mailto:ishratarshad101@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/ishratarshad](https://www.linkedin.com/in/ishratarshad)  
 🌐 Location: New York, NY  
-🤝 Open to internships, collaborations, and impact-driven tech projects  
