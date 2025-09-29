@@ -96,7 +96,7 @@ _- CSCI 335_
 
 **🎓 B.S. in Computer Science & Economics** _@ CUNY Hunter College_
 
-**Minors**: Applied Mathematics, Economics 
+**Minors**: Applied Mathematics 
 
 **Relevant Coursework:** Computer Architecture, Data Structures and Algorithm, Advanced Algorithms, Software Analysis and Design, Discrete Structures, Linear Algebra, Differential Equations, Statistics and Data Analysis  
 
