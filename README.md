@@ -3,19 +3,6 @@ SWE Intern – Associate Project Manager @ Unadat | SWE Intern @ The Difference 
 
 AI/ML Fellow @ Cornell Tech | 🎓 CS + Economics @ Hunter College (CUNY) | 📍 New York, NY
 
-I'm passionate about building intelligent systems that enhance healthcare, education, and everyday access to information. I combine AI and full-stack development to create tools that improve efficiency and support people in their daily lives.
-
-
-_**Currently, I’m:**_
-- 🤖 Building AI agents @ NeuralSeek using multi-agent workflows, LLMs, and no-code architecture to support business compliance and support tools  
-- 💻 Developing production-ready financial tools @ Unadat using PHP, JavaScript, and Google Cloud as part of a social productivity platform — while also supporting sprint planning, QA coordination, and delivery workflows as an Associate Project Manager 
-- 📱 Designing mobile health features @ The Difference using Flutter, MySQL, and Laravel with real users and stakeholder feedback  
-- 🧠 Researching fairness, explainability, and scalability in ML @ Cornell Tech’s Break Through Tech AI Studio  
-- 👩‍🏫 Supporting students as a TA for Data Structures & Software Analysis at Hunter College  
-- 🧩 Leading collaborative tech projects, mentoring student developers, and overseeing GitHub workflows as **Project Tech Lead** for the Hunter CS Club
-
-
-
 _**🛠️ Tech Stack**_
 
 **Programming & Machine Learning:**
@@ -33,9 +20,9 @@ Machine Learning • Natural Language Processing (NLP) • AI Chatbot Developmen
 
 
 ---
-**🎯 Featured Projects:**
+**Featured Projects:**
 
-**_🧠 NewsGuard – AI Misinformation Detection System:_**
+**_ NewsGuard – AI Misinformation Detection System:_**
 A full-stack application that detects fake news using NLP and explains key misinformation triggers with LIME.
 
 **Tech Stack:** 
@@ -50,7 +37,7 @@ Python, scikit-learn, LIME, Flask, React.js, JavaScript, HTML/CSS
   
 **Impact**: Helps users understand why content is misleading and increases transparency in online media.
 
-_**💊 SteadyCare – AI-Powered Health Assistant:**_
+_**SteadyCare – AI-Powered Health Assistant:**_
 An accessible AI assistant that helps users manage medications, symptoms, and appointments through voice interaction and smart reminders.
 
 **Tech Stack:** 
@@ -64,8 +51,8 @@ Python, Flask, SpeechRecognition, Schedule, CSV file handling
 
 **Impact**: Increased medication adherence by 40% and reduced daily management time by 35% for users with mobility limitations.
 
-_**🥗 Recipease – Personalized Recipe Recommender**_
-A React-based web application that recommends recipes tailored to user dietary preferences, allergies, and ingredient availability. Developed collaboratively as a team project for Practical Web Development at Hunter College.
+_**Recipease – Personalized Recipe Recommender**_
+A React-based web application that recommends recipes tailored to user dietary preferences, allergies, and ingredient availability.
 
 **Tech Stack**: React.js, JavaScript, HTML/CSS, Spoonacular API, Figma  
 
