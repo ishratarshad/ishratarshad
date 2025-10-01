@@ -1,6 +1,5 @@
-# Hi, I'm Ishrat!   
-Currently, I'm studying CS at Hunter. Let connect!
-
+# Hi, I'm Ishrat! 
+I'm a AI/ML Fellow at Cornell and I'm studying CS & Econ at Hunter. 
 
 ### 📊 GitHub Activity
 
@@ -8,6 +7,7 @@ Currently, I'm studying CS at Hunter. Let connect!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishratarshad&layout=compact)
 
 
-📧 Email: [ishratarshad101@gmail.com](mailto:ishratarshad101@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/ishratarshad](https://www.linkedin.com/in/ishratarshad)  
-🌐 Location: New York, NY  
+Lets Connect :) !
+Email: [ishratarshad101@gmail.com](mailto:ishratarshad101@gmail.com)  
+LinkedIn: [linkedin.com/in/ishratarshad](https://www.linkedin.com/in/ishratarshad)  
+Location: New York, NY  
